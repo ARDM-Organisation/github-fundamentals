@@ -1,3 +1,5 @@
-Create a feature branch
-Make focussed commits
-Submit pull requests
+# Contribution Guidelines
+1. Create a feature branch
+2. Make focussed commits
+3. Submit pull requests
+4. Review others' code
